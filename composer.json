@@ -1,5 +1,5 @@
 {
-    "name": "robin/laravel-adminer",
+    "name": "robinflyhigh/laravel-adminer",
     "description": "Adminer (by Jakub Vrana) wrapper for Laravel 5.5+",
     "keywords": ["adminer", "laravel5", "database", "management", "explorer"],
     "license": "MIT",
